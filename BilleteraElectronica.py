@@ -6,7 +6,7 @@
 #   - Lautaro Villalon 12-10427
 # Descripcion: funcion que calcula el monto a pagar de un servicio.
 
-
+# -*- coding: utf-8 -*-
 
 class BilleteraElectronica:
 
